@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleInterviewRiddle", "GoogleInterviewRiddle\GoogleInterviewRiddle.csproj", "{BE469D02-D24D-4768-92C6-82F52E99F342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE469D02-D24D-4768-92C6-82F52E99F342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE469D02-D24D-4768-92C6-82F52E99F342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE469D02-D24D-4768-92C6-82F52E99F342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE469D02-D24D-4768-92C6-82F52E99F342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C51AC17D-21E9-4F98-AA08-25B9D43A457F}
+	EndGlobalSection
+EndGlobal
