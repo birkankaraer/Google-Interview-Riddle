@@ -1,9 +1,9 @@
 # GoogleInterviewRiddle
 # I wrote the problem in c# and printed it in the console application
 # Math solution link 
-
+-------------------
 [https://www.quora.com/How-Three-brothers-A-B-C-want-to-travel-300-km-They-have-a-bike-which-goes-in-uniform-velocity-60-km-h-which-can-carry-2-members-in-a-time-Each-brother-can-walk-15-km-h-how-they-can-reach-the-final-point-with
-Three brothers A, B, C want to travel 300 km. They have a bike which goes in uniform velocity 60 km/h which can carry 2 members in a time. Each brother can walk 15 km/h how they can reach the final point with minimum time?]
+Three brothers A, B, C want to travel 300 km. They have a bike which goes in uniform velocity 60 km/h which can carry 2 members in a time. Each brother can walk 15 km/h how they can reach the final point with minimum time?](url)
 
 My approach using simple algebra assumes that there be 4 states :-
 
